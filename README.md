@@ -1,1 +1,0 @@
-# nyroj-frisor-demo
